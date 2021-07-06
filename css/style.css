@@ -1,0 +1,103 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 40px;
+    margin: 0%;
+}
+.salmon-color{
+    color:salmon;
+}
+.box1{
+    width: 50%;
+    padding: 10%;
+}
+.first-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(92, 27, 67), rgb(201, 37, 37));
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 400;
+    color: white;
+    position: absolute;
+    top: 78%;
+    left: 19%;
+}
+.container1{
+    display: flex;
+}
+.female-pic-size img {
+    width: 98%;
+}
+.female-pic-size2 img {
+    padding-top: 50px;
+}
+.middle-banner{
+    background-image: url(images/shapes/7.png);
+    display: flex;
+    border-radius: 20px;
+}
+.second-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(128, 0, 85),rgb(190, 162, 162));
+    padding: 10px 40px;
+    font-weight: 400;
+    color: white;
+    border-radius: 5px;
+    position: absolute;
+    top: 180%;
+    right: 19%;
+}
+.recipies{
+    width: 80%;
+    padding: 10%;
+}
+.text-recipies-middle{
+    text-align: center;
+}
+.box2{
+    width: 25%;
+}
+.box2 img{
+    width: 100%;
+    border-radius: 10px;
+}
+.container2{
+    display: flex;
+    margin-bottom: 50px;
+}
+.shadow{
+    box-shadow: 10px 10px 30px black;
+    margin-right:2%;
+    margin-left: 6%;
+    padding: 2.5%;
+    border-radius: 10px;    
+}
+.container3{
+    display: flex;
+}
+.shadow2{
+    box-shadow: 10px 10px 30px black;
+    margin-right:2%;
+    margin-left: 6%;
+    padding: 2.5%;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+.box3{
+    width: 25%;
+    margin-left: 10%;
+}
+footer{
+    background-color: rgb(55, 41, 187);
+    color: white;
+    padding: 5%;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+.footer-text-color{
+    color:green;
+}
